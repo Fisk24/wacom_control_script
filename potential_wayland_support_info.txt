@@ -1,0 +1,5 @@
+replace xdotool with ydotool as its apperently diplay manager agnostic
+
+further leads:
+https://www.reddit.com/r/swaywm/comments/ppx6xt/configuring_a_wacom_tablet_where_to_start/
+https://github.com/ReimuNotMoe/ydotool
