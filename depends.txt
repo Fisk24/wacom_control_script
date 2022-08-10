@@ -1,0 +1,2 @@
+input-wacom-dkms (AUR)
+xf86-input-wacom

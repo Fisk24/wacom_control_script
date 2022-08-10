@@ -1,0 +1,26 @@
+# PAD
+
+# TOUCH
+# xsetwacom set "Wacom Bamboo 16FG 4x5 Finger touch" "Area" "0 0 4096 4096"
+xsetwacom set "Wacom Bamboo 16FG 4x5 Finger touch" "Mode" "Absolute"
+xsetwacom set "Wacom Bamboo 16FG 4x5 Finger touch" "Touch" "on"
+xsetwacom set "Wacom Bamboo 16FG 4x5 Finger touch" "Rotate" "half"
+
+# STYLUS
+# xsetwacom set "Wacom Bamboo 16FG 4x5 Pen stylus" "Area" "0 0 14720 9200"
+xsetwacom set "Wacom Bamboo 16FG 4x5 Pen stylus" "Mode" "Absolute"
+xsetwacom set "Wacom Bamboo 16FG 4x5 Pen stylus" "Rotate" "half"
+
+## Button settings
+#PAD
+xsetwacom set "Wacom Bamboo 16FG 4x5 Pad pad" "Button" "1" "button +1 "
+xsetwacom set "Wacom Bamboo 16FG 4x5 Pad pad" "Button" "2" "button +2 "
+xsetwacom set "Wacom Bamboo 16FG 4x5 Pad pad" "Button" "3" "button +3 "
+xsetwacom set "Wacom Bamboo 16FG 4x5 Pad pad" "Button" "8" "button +8 "
+xsetwacom set "Wacom Bamboo 16FG 4x5 Pad pad" "Button" "9" "button +9 "
+
+# STYLUS
+xsetwacom set "Wacom Bamboo 16FG 4x5 Pen stylus" "Button" "1" "button +1 " <- Pen Tip
+xsetwacom set "Wacom Bamboo 16FG 4x5 Pen stylus" "Button" "2" "button +2 " <- Pen Button Closest to pen tip
+xsetwacom set "Wacom Bamboo 16FG 4x5 Pen stylus" "Button" "3" "button +3 " <- Pen Button Furthest from pen tip
+xsetwacom set "Wacom Bamboo 16FG 4x5 Pen stylus" "Button" "8" "button +8 " <- Theoretical Eraser button, even if it doesn't really have one...

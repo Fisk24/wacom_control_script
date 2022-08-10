@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=Tablet
+Comment=Drawing Tablet Configuration Utility
+Path=/home/fisk/Projects/wacom_control_script/
+Exec=/home/fisk/Projects/wacom_control_script/wacom_settings.py
+Icon=input-tablet
+Categories=Utility
